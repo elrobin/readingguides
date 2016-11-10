@@ -3,5 +3,5 @@ Project including readings on different subjects related to Social Sciences meth
 
 So far I have created the following guides
 
-- Reading Guide on Sociology of Science
-- Reading Guide on Reseach Methods
+- [Reading Guide on Sociology of Science](Soc_sci.md)
+- [Reading Guide on Reseach Methods](Res_methods)
