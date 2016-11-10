@@ -14,6 +14,8 @@ Reader. Pp. 163-175.
 
 - Weber, Max. 1946 [1918]. “Science as a Vocation” in From Max Weber: Essays in
 Sociology. [http://mail.www.anthropos-lab.net/wp/wp-content/uploads/2011/12/Weber-Science-as-a-Vocation.pdf](http://mail.www.anthropos-lab.net/wp/wp-content/uploads/2011/12/Weber-Science-as-a-Vocation.pdf)
+  
+ 	This paper based on a talk given by Weber, discusses the conditions and trajectory a prospective researcher must undertake to become a *professional* researcher in Germany and the US. Despite being a 100 year old text, there are many parallelisms with the current research system and the working conditions of researchers to-be. It also discusses the main motivations and characteristics they may have to be succesfull in their scientific career: enthusiasm and work. It also reflects on how the social perception of science and its function has changed over time since the Greeks to our days and what is its ultimate purpose.
 
 - Polanyi, Michael. 1962. “The Republic of Science: It’s political and economic
 theory.”
