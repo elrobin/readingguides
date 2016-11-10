@@ -13,7 +13,7 @@ List initially based on [the guide offered by James A. Evans](http://home.uchica
 Reader. Pp. 163-175.
 
 - Weber, Max. 1946 [1918]. “Science as a Vocation” in From Max Weber: Essays in
-Sociology. [http://www.ne.jp/asahi/moriyuki/abukuma/weber/lecture/science_frame.html](http://www.ne.jp/asahi/moriyuki/abukuma/weber/lecture/science_frame.html)
+Sociology. [http://mail.www.anthropos-lab.net/wp/wp-content/uploads/2011/12/Weber-Science-as-a-Vocation.pdf](http://mail.www.anthropos-lab.net/wp/wp-content/uploads/2011/12/Weber-Science-as-a-Vocation.pdf)
 
 - Polanyi, Michael. 1962. “The Republic of Science: It’s political and economic
 theory.”
