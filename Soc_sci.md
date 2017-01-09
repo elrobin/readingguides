@@ -19,7 +19,7 @@ Sociology. [http://mail.www.anthropos-lab.net/wp/wp-content/uploads/2011/12/Webe
 
 - Polanyi, Michael. 1962. “The Republic of Science: It’s political and economic
 theory.”
-[http://fiesta.bren.ucsb.edu/~gsd/595e/docs/41.%20Polanyi_Republic_of_Science.pdf](http://fiesta.bren.ucsb.edu/~gsd/595e/docs/41.%20Polanyi_Republic_of_Science.pdf)
+[http://www.sts-biu.org/images/file/Michael%20Polanyi,%20Republic%20of%20Science.pdf](http://www.sts-biu.org/images/file/Michael%20Polanyi,%20Republic%20of%20Science.pdf)
 
 ###Institutional origins of science: professions, politics and scientific growth
 
