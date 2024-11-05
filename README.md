@@ -1,7 +1,10 @@
 # Reading Guides
-Project including readings on different subjects related to Social Sciences methods, research policy, bibliometrics.
+Here I include a list of readings on different subjects related to Social dynamics of science. ^Beware, I am currently reorganizing all of this for greater clarity^.
 
-So far I have created the following guides
+New reading lists:
+3. [Credibility and trust](3-Credibility-and-trust.md)
+
+Old guides
 
 - [Reading Guide on Sociology of Science](Soc_sci.md)
 - [Reading Guide on Reseach Methods](Res_methods)
