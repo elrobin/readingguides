@@ -4,6 +4,8 @@
 - [Cultural aspects](#Cultural-aspects)
 - [Social structure and trust](#Social-structure-and-trust)
 - [Peer review and gatekeeping](#Peer-review-and-gatekeeping)
+- [Transparency and reproducibility](#transparency-and-reproducibility)
+- [Ethics and integrity in science](#ethics-and-integrity-in-science)
 
 ## Cultural aspects
 
@@ -11,7 +13,7 @@
 **Lamont, M. (2009). _How Professors Think_. Harvard University Press.**
 This book delves into how academic judgment is formed, examining trust, credibility, and social dynamics in the evaluation process among professors, making it relevant to the social structures that foster trust within academic communities. The author discusses issues such as homophily in judgment, fairness, epistemological diversity, methodological pluralism or cognitive contextualization. Through interviews, the author tries to better comprehend the process of judgment and the reasoning behind peer review and evaluation.
 
-In the first chapter, Lamont contextualizes her work, her point of departure, and situates the study of peer review she undertakes in the literature. She exposes the position of Richard Whitley and Bourdieu and criticizes the lack of definition concepts such as _excellence_ or _promising_ have. She contends that peer review and evaluation do not simply follow a competitive or market logic, but also emotions and self-image play an important role in the proces.
+In the first chapter, Lamont contextualizes her work, her point of departure, and situates the study of peer review she undertakes in the literature. She exposes the position of Richard Whitley and Bourdieu and criticizes the lack of definition concepts such as _excellence_ or _promising_ have. She contends that peer review and evaluation do not simply follow a competitive or market logic, but also emotions and self-image play an important role in the process.
 
 Chapter 2.
 
@@ -42,3 +44,11 @@ They define bias as the violation of impartiality. They acknowledge that the not
    + publication bias. This refers to publishing positive results and not negative findings.
 
 They then discuss studies focusing on specific types of peer review. They mainly focus on the evaluation of research outputs.
+
+## Transparency and reproducibility
+
+## Ethics and integrity
+
+**Chomsky, N. (2008). The Responsibility of Intellectuals. In A. Arnove (Ed.), _The Essential Chomsky_ (pp. 39-62). Bodley Head.**
+
+This essay discusses the moral responsibilities of intellectuals, focusing on ethical obligations, integrity, and the role of scholars in challenging misinformation and power. It aligns closely with topics around ethical frameworks and the role of integrity in scientific and intellectual work.
