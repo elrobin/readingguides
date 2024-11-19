@@ -4,8 +4,8 @@
 - [Cultural aspects](#Cultural-aspects)
 - [Social structure and trust](#Social-structure-and-trust)
 - [Peer review and gatekeeping](#Peer-review-and-gatekeeping)
-- [Transparency and reproducibility](#transparency-and-reproducibility)
-- [Ethics and integrity in science](#ethics-and-integrity-in-science)
+- [Transparency and reproducibility](#Transparency-and-reproducibility)
+- [Ethics and integrity in science](#Ethics-and-integrity-in-science)
 
 ## Cultural aspects
 
